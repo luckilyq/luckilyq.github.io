@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>9.24JavaScript随堂笔记</title>
+      <link href="/2021/09/27/9.27Java%E9%9A%8F%E5%A0%82%E7%AC%94%E8%AE%B0/"/>
+      <url>/2021/09/27/9.27Java%E9%9A%8F%E5%A0%82%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="9-27Java随堂笔记"><a href="#9-27Java随堂笔记" class="headerlink" title="9.27Java随堂笔记"></a>9.27Java随堂笔记</h2><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109270825755.png" alt="Snipaste_2021-09-27_08-17-54"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109270952417.png" alt="Snipaste_2021-09-27_08-33-58"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109270953447.png" alt="Snipaste_2021-09-27_08-39-15"></p><h4 id="阿里巴巴Java开发规范"><a href="#阿里巴巴Java开发规范" class="headerlink" title="阿里巴巴Java开发规范"></a>阿里巴巴Java开发规范</h4><ul><li><p>类、类属性、类方法的注释必须使用Javadoc规范</p></li><li><p>具体代码规范课后自行学习并遵循</p></li></ul><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109270953915.png" alt="Snipaste_2021-09-27_09-04-13"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109270929412.png" alt="Snipaste_2021-09-27_09-17-34"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109270929796.png" alt="Snipaste_2021-09-27_09-19-35"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109270929254.png" alt="Snipaste_2021-09-27_09-25-58"></p><h4 id="Git的提交规范"><a href="#Git的提交规范" class="headerlink" title="Git的提交规范"></a>Git的提交规范</h4><ul><li><p>git commit message 和 chang log编写指南</p><ul><li>(<a href="https://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html">https://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html</a>)</li></ul></li><li><p>Format of the commit message</p><ul><li><type>(<scope>):<subjec><blank line=""><blank link=""><footer></footer></blank></blank></subjec></scope></type></li></ul></li><li><p>Allowed <type></type></p><ul><li><p>feat：新功能（feature）</p></li><li><p>fix：修补bug</p></li><li><p>docs：文档（documentation）</p></li><li><p>style： 格式（不影响代码运行的变动）</p></li><li><p>refactor：重构（即不是新增功能，也不是修改bug的代码变动）</p></li><li><p>test：增加测试</p></li><li><p>chore：构建过程或辅助工具的变动</p></li></ul></li></ul><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109270827679.png" alt="Snipaste_2021-09-27_08-19-33"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109270827085.png" alt="Snipaste_2021-09-27_08-20-17"></p><h4 id="彩蛋"><a href="#彩蛋" class="headerlink" title="彩蛋"></a>彩蛋</h4><ul><li>GitHub推荐插件<ul><li>sourcegraph</li><li>octotree</li></ul></li><li>p3c项目<ul><li><a href="https://github.com/alibaba/p3c">https://github.com/alibaba/p3c</a></li></ul></li><li>推荐的博客<ul><li>阮一峰，廖雪峰（课后可以多去看看）</li></ul></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+          <category> Github </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> javaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>9.24JavaScript随堂笔记</title>
+      <link href="/2021/09/24/9.24JavaScript%E9%9A%8F%E5%A0%82%E7%AC%94%E8%AE%B0/"/>
+      <url>/2021/09/24/9.24JavaScript%E9%9A%8F%E5%A0%82%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="9-24JavaScript随堂笔记"><a href="#9-24JavaScript随堂笔记" class="headerlink" title="9.24JavaScript随堂笔记"></a>9.24JavaScript随堂笔记</h2><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109241813646.png" alt="Snipaste_2021-09-24_13-30-54"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109241813405.png" alt="Snipaste_2021-09-24_13-54-43"></p><ul><li><p>在语雀上记录</p></li><li><p>将自己的代码推到GitHub上（养成习惯）</p></li></ul><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109241813512.png" alt="Snipaste_2021-09-24_14-15-36"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109241813184.png" alt="Snipaste_2021-09-24_15-48-55"></p><ul><li>三大件（HTML+CSS+JavaScript)</li></ul><h4 id="HTML-HyperText-Markup-Language"><a href="#HTML-HyperText-Markup-Language" class="headerlink" title="HTML(HyperText Markup Language)"></a>HTML(HyperText Markup Language)</h4><ul><li><p>学习基础语法</p></li><li><p>写语义性HTML</p></li><li><p>基础的搜索引擎</p></li><li><p>可访问</p></li></ul><h4 id="CSS（Cascading-Style-Sheet）"><a href="#CSS（Cascading-Style-Sheet）" class="headerlink" title="CSS（Cascading Style Sheet）"></a>CSS（Cascading Style Sheet）</h4><ul><li> 学习基础 </li><li>写布局 <ul><li>floats浮动 </li><li>positioning定位 </li><li>display属性规定元素  </li><li>box model 盒子模型 </li><li>css grid 网格布局 </li><li>flex box弹性盒子布局</li></ul></li><li> 媒体查询 </li><li>学习css3</li></ul><h4 id="JavaScript"><a href="#JavaScript" class="headerlink" title="JavaScript"></a>JavaScript</h4><ul><li><p>语法和基础结构 </p></li><li><p>学习dom模型 </p></li><li><p>异步请求 </p></li><li><p>学es6+及模块化编程（modular模块化)</p></li></ul><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109241813468.png" alt="Snipaste_2021-09-24_14-26-15"></p><ul><li>casecading style sheet 层叠样式表</li></ul><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109241814221.png" alt="Snipaste_2021-09-24_14-51-57"></p><h4 id="开发者网站"><a href="#开发者网站" class="headerlink" title="开发者网站"></a>开发者网站</h4><ul><li><a href="https://developer.mozilla.org/zh-CN/docs/Web%EF%BC%88%E4%BB%A3%E7%A0%81%E4%BC%98%E8%B4%A8%E5%8F%AF%E5%8F%82%E8%80%83%EF%BC%89%E8%AF%BE%E5%90%8E%E8%87%AA%E8%A1%8C%E5%8E%BB%E8%A1%A5%E8%AF%BE">https://developer.mozilla.org/zh-CN/docs/Web（代码优质可参考）课后自行去补课</a></li></ul><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109241814172.png" alt="Snipaste_2021-09-24_15-08-16"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/202109241814078.png" alt="Snipaste_2021-09-24_15-08-16"></p><ul><li>课后装yarn(=npm同为包管理器)</li></ul><h4 id="推荐的网站"><a href="#推荐的网站" class="headerlink" title="推荐的网站"></a>推荐的网站</h4><ul><li><p>devdocs.io</p></li><li><p>codepen.io</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> javaScript </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> javaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>java 随堂笔记9.18</title>
+      <link href="/2021/09/24/java%E8%AF%BE%E5%A0%82%E8%AE%B0%E5%BD%959.18/"/>
+      <url>/2021/09/24/java%E8%AF%BE%E5%A0%82%E8%AE%B0%E5%BD%959.18/</url>
+      
+        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="660" height="100" src="//music.163.com/outchain/player?type=2&amp;id=1836033745&amp;auto=1&amp;height=66"></iframe><h3 id="Java随堂笔记（9-18）"><a href="#Java随堂笔记（9-18）" class="headerlink" title="Java随堂笔记（9.18）"></a>Java随堂笔记（9.18）</h3><h4 id="总体思维导图"><a href="#总体思维导图" class="headerlink" title="总体思维导图"></a>总体思维导图</h4><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182050889.png" alt="Snipaste_2021-09-18_08-47-00"></p><h4 id="课后作业形式：文档pdf、视频：mp4"><a href="#课后作业形式：文档pdf、视频：mp4" class="headerlink" title="课后作业形式：文档pdf、视频：mp4"></a>课后作业形式：文档pdf、视频：mp4</h4><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182027527.png" alt="image-20210918202725223"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182050922.png" alt="Snipaste_2021-09-18_09-15-38"></p><h4 id="阿里云"><a href="#阿里云" class="headerlink" title="阿里云"></a>阿里云</h4><ul><li>阿里云开发者社区</li><li>阿里云大学开发者课堂</li><li>体验实验室<ul><li>MySQL基础-学生管理系统数据库设计</li></ul></li></ul><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182051792.png" alt="Snipaste_2021-09-18_09-27-39"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182051576.png" alt="Snipaste_2021-09-18_09-33-23"></p><h4 id="应该具备的能力"><a href="#应该具备的能力" class="headerlink" title="应该具备的能力"></a>应该具备的能力</h4><ul><li>命令行和shell工具</li><li>版本控制git</li><li>文本编辑vim</li><li>远程服务器ssh</li><li>查找文件</li><li>数据处理</li><li>虚拟机</li><li>安全<ul><li>网络安全</li><li>隐私</li></ul></li><li>信息检索与整理能力</li></ul><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182052721.png" alt="Snipaste_2021-09-18_09-36-11"></p><h4 id="VS-code必备小插件"><a href="#VS-code必备小插件" class="headerlink" title="VS code必备小插件"></a>VS code必备小插件</h4><ul><li>markmap（把markdown文本编程思维导图）</li><li>carbon（架构工具）</li></ul><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182052848.png" alt="Snipaste_2021-09-18_09-36-54"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182052399.png" alt="Snipaste_2021-09-18_10-17-17"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182052375.png" alt="Snipaste_2021-09-18_10-21-03"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182053168.png" alt="Snipaste_2021-09-18_10-32-01"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182053166.png" alt="Snipaste_2021-09-18_10-33-19"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182053230.png" alt="Snipaste_2021-09-18_10-38-12"></p><p><img src="https://gyq12.oss-cn-beijing.aliyuncs.com/img/202109182053582.png" alt="Snipaste_2021-09-18_10-48-32"></p><h4 id="技术成长之路"><a href="#技术成长之路" class="headerlink" title="技术成长之路"></a>技术成长之路</h4><ul><li>下载jdk11</li><li>阿里云下载最新版java开发手册</li></ul><h4 id="推荐的书"><a href="#推荐的书" class="headerlink" title="推荐的书"></a>推荐的书</h4><p>《黑客与画家》</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+            <tag> MySQL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>java page</title>
+      <link href="/2021/09/24/java/"/>
+      <url>/2021/09/24/java/</url>
+      
+        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="660" height="100" src="//music.163.com/outchain/player?type=2&amp;id=1836033745&amp;auto=1&amp;height=66"></iframe><h1 id="对Java的认识"><a href="#对Java的认识" class="headerlink" title="对Java的认识"></a>对Java的认识</h1><h3 id="Java简介"><a href="#Java简介" class="headerlink" title="Java简介:"></a>Java简介:</h3><p>java是一种跨平台的面向对象的编程语言，拥有安全性，可移植性良好，分布式，简单，多线程并发，等特点。</p><p>Java体系：JavaEE（j2ee）企业web，JavaME（j2me）移动设备，JavaSE（j2se）服务器端</p><h4 id="Java的特性："><a href="#Java的特性：" class="headerlink" title="Java的特性："></a>Java的特性：</h4><p>   封装，继承，多态，抽象</p><h3 id="什么是封装？"><a href="#什么是封装？" class="headerlink" title="什么是封装？"></a>什么是封装？</h3><p>   说白就是将类的信息隐藏再类的内部，不允许外部程序进行直接访问，而是通过类的内部方法进行访问和操作。</p><h3 id="如何实现封装？"><a href="#如何实现封装？" class="headerlink" title="如何实现封装？"></a>如何实现封装？</h3><ol><li>首先将属性的修饰符设为private，限制访问；</li><li>生成getter/setter方法；</li><li>对getter/setter方法进行属性控制，如判空，逻辑操作等；</li></ol><h3 id="什么是继承？"><a href="#什么是继承？" class="headerlink" title="什么是继承？"></a>什么是继承？</h3><p>  继承是类与类之间的一种关系。打个比方，猫属于动物，那么就是说是猫类继承了动物类，那么猫类就是动物类的子类（派生类），动物类就是猫类的就是父类（基类）。在Java中，继承指的是单继承，也就是说一个子类只有一个父类，如想实现多继承可以采用实现多个接口的方式；</p><p>  继承的特性：单根性和传递性</p><p>   单根型即一个子类只可以有一个父类；</p><p>   传递性即一个类可以是一个父类的子类，同时也可以是其他子类的父类，比如a继承了b，而b又继承了c，那么a同时拥有b和c     的方法和属性。</p><p>   继承的好处：有利于代码重用，便于维护和扩展。</p><h3 id="什么是多态？"><a href="#什么是多态？" class="headerlink" title="什么是多态？"></a>什么是多态？</h3><p>  多态即同一个对象在不同时刻体现不同的状态</p><p>   多态存在的条件：1.必须有继承关系 2.必须重写父类方法 3.父类引用必须指向子类对象</p><p>   多态有分为方法多态和引用多态</p><p>   引用多态：父类引用可以指向父类对象，也可以指向子类对象；</p><p>   方法多态：父类引用指向父类对象时，调用方法则是父类的方法；</p><p> 父类引用指向子类对象时，调用方法则是调用子类重写后的方法，如未重写则调用继承父类的方法；</p><p>  多态的作用：类似于动态绑定引用对象的技术，来消除类型之间的耦合；</p><p>  多态的好处就不用细说了，很明显的更有利于面向对象，更有利于维护和扩展，简化了代码雍余，使开发效率大大提高（万能答案）</p><p>  注意：1.子类重写父类方法时，访问权限不可低于父类 2.父类不可以引用子类特有的方法。</p><p>什么是抽象？</p><p>  抽象用一种比较通俗点的说法就是我们对某一事物的认知，将其转化为java语言能够识别的类（一个事物即一个类，该类的属    性就是这个事物所拥有的属性），比如说人，对应一个people类，那么类中会有年龄age，身高height，体重weight等等属性，这些属性都是这个事物所拥有的。</p><h3 id="Java与C-相比"><a href="#Java与C-相比" class="headerlink" title="Java与C++相比"></a>Java与C++相比</h3><ol><li> 优点：</li></ol><ul><li>取消了指针（这玩意太危险了，C++中一不小心就会出大错，对内存管理要求极高，吃过亏）</li><li> 2.采用了gc回收机制，不像C++中用完必须马上关掉，让编码人员更注重业务功能的实现，不用关心内存的问题</li><li>采用实现接口代替多继承</li><li>跨平台（C++也可以跨平台，只不过java是运行在虚拟机上，一次编码，到处运行，C++是一次编码，多次编译，可以在各个平台进行编译，当然必须是标准的C++代码）</li></ul><ol start="2"><li>缺点：<ul><li>Java相对于C++来说运行效率相比差一点</li></ul></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nodejs </tag>
+            
+            <tag> java </tag>
+            
+            <tag> npm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/09/24/hello-world/"/>
+      <url>/2021/09/24/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> nodejs </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nodejs </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
